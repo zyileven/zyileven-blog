@@ -1,7 +1,7 @@
 ---
 title: '对 JSX 的理解'
 description: 'JSX（JavaScript XML）是 React 引入的一种语法扩展，它让你可以在 JavaScript 代码中编写类似 HTML 的代码。这种语法简洁直观，便于描述组件的结构和内容。'
-pubDate: '2024 年 6 月 4 日'
+pubDate: '2024-06-04'
 heroImage: '/images/2024/6/4/jsx.webp'
 ---
 
