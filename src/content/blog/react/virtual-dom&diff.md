@@ -2,7 +2,7 @@
 title: '虚拟 DOM 与 DIFF 算法'
 description: '虚拟 dom 与 diff 算法是 react 为了用来优化更新 dom 提出的一种技术'
 pubDate: '2024-06-05'
-heroImage: '/images/2024/6/5/v-dom.jpg'
+heroImage: '/images/2024/6/5/v-dom.jpeg'
 ---
 
 ## 虚拟 DOM 与 diff 算法
